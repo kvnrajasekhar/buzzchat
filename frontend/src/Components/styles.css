@@ -1,0 +1,35 @@
+.messages{
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+.timeStamp{
+    font-size: 10px;
+    color: #8c8c8c;
+    margin-left: 10px;
+}
+.printDate{
+    color: #8c8c8c;
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.dateStamp{
+    background-color: #272626;
+    color: white;
+    padding: 1px 2px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.arrowIcon{
+    font-size: 15px;
+    float: right;
+    opacity: 0;
+}
+.printingMessage:hover .arrowIcon{
+    opacity: 1;
+}
+
+
