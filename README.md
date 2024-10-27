@@ -9,7 +9,7 @@ This is a chat application built using the MERN stack. It allows users to commun
 To get the app into your local environment, follow these steps:
 
 1. Clone the project.
-2. Navigate to the `Mern-Chat-Application` directory.
+2. Navigate to the `buzzchat` directory.
 3. Run the command `npm i`.
 4. Navigate to the `frontend` directory.
 5. Run the command `npm i`.
