@@ -6,8 +6,7 @@
   "scripts": {
     "start": "nodemon backend/server.js",
     "both": "concurrently \"cd frontend && npm run start\" \"cd backend && nodemon server.js\"",
-    "build": "cd frontend && npm run build",
-    "install": "npm install --legacy-peer-deps"
+    "build": "cd frontend && npm install --legacy-peer-deps && npm run build"
   },
   "author": "",
   "license": "ISC",
