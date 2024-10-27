@@ -33,7 +33,7 @@ connectDB();
 // }
 // -------------------------Deployment-------------------------
 const corsOptions = {
-  origin: "*",
+  origin: process.env.NODE_ENV === "production" ? "https://buzzchat-alpha.vercel.app" : "*",
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };
