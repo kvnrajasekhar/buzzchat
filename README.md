@@ -1,4 +1,4 @@
-# Mern-Chat-Application
+# buzzchat
 
 ## Introduction
 
