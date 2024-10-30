@@ -1,0 +1,8 @@
+// PORT= your port
+// MONGO_URI=  your db url
+// JWT_SECRET= any secret code 
+// NODE_ENV= 
+// LOCALHOST =
+// EMAIL = your email
+// PASSWORD = better to use app password
+// OPENAI_API_KEY = your open ai api key
