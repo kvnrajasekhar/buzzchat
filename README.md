@@ -47,4 +47,4 @@ The following features are present in this chat application:
 - The open source community such an amazing place to learn, inspire, and create.
 - Check out our [contribution guidelines](CONTRIBUTING.md) for more information.
 
-#show some love by clicking star for the repo
+## show some love by clicking star for the repo
